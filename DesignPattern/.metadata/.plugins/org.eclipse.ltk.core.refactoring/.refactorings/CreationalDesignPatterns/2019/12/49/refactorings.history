@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;CreationalDesignPatterns&apos;&#x0A;- Original project: &apos;CreationalDesignPatterns&apos;&#x0A;- Original element: &apos;com.blblz.singletonlink.EnumSingleton.java&apos;" description="Delete element" element1="/src&lt;com.blblz.singletonlink{EnumSingleton.java" elements="1" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1575289560545" subPackages="false" version="1.0"/>
+</session>
